@@ -429,3 +429,35 @@ ls
 cd LABORATORIO
 clear
 ls
+git init
+git add README.md
+git add .
+git add -A index.html
+git add index.html
+git add index
+git add "index.html"
+git commit -m "Mi primer pagina web"
+git log
+git config --global user.name "Jackeline Guzman"
+git config --global user.email "dendleo.16@gmail.com"
+git log
+git init
+git add -A index.html
+git add index.html
+git add "index.html"
+git add -A index.html
+git add -A "index.html"
+ls
+clear
+ls
+cd ..
+clear
+git config --global user.name "Jackeline Guzman"
+git config --global user.email "dendleo.16@gmail.com"
+git init
+git add .
+git add -A index.html
+git commit -m "Mi primer pagina web2
+git log
+git status
+
